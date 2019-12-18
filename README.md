@@ -35,3 +35,7 @@ zsh, oh-my-zsh, Homebrew, Java8, Maven, iterm2, sublime，sourcetree, etc.
 #### 数据库客户端 sequel pro
 
 `下载并解压 https://sequelpro.com/builds/Sequel-Pro-Build-97c1b85783.zip `
+
+## 其他
+
+搜索软件 `brew search 英文关键字`，查询应用的具体名称，再通过 `brew install`（命令行工具） 或者 `brew cask install`（非命令行应用） 安装
