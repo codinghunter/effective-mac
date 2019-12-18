@@ -4,7 +4,7 @@ A scirpt to setup effective Mac OS X development environment for javaer.
 
 ## 必要安装
 
-zsh, oh-my-zsh, Homebrew, Java8, Maven, iterm2, sublime， sourcetree...
+zsh, oh-my-zsh, Homebrew, Java8, Maven, iterm2, sublime，sourcetree, etc.
 
 1. ` chsh -s /bin/zsh `
 2. ` sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" `
