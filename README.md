@@ -4,7 +4,7 @@ A scirpt to setup effective Mac OS X development environment for java programmer
 
 ## 必要安装
 
-terminal执行以下命令，安装 zsh, oh-my-zsh, Homebrew, Java8, Maven, iterm2, sublime，sourcetree, etc.
+terminal执行以下命令，安装 zsh, oh-my-zsh, Homebrew, Java8, Maven, iterm2, sublime etc.
 
 1. ` chsh -s /bin/zsh `
 2. ` sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" `
@@ -15,7 +15,6 @@ terminal执行以下命令，安装 zsh, oh-my-zsh, Homebrew, Java8, Maven, iter
 1. zsh & oh-my-zsh: 更高效的shell，支持各种主题，命令别名，插件等等
 2. Homebrew: mac包管理工具，通过命令行安装各种软件
 3. iterm2: mac terminal的替代产品
-4. sourcetree: git客户端
 
 ## 可选安装
 
@@ -29,6 +28,10 @@ terminal执行以下命令，安装 zsh, oh-my-zsh, Homebrew, Java8, Maven, iter
 #### 安装vscode
 
 ` brew cask install visual-studio-code `
+
+#### 安装git客户端sourcetree
+
+` brew cask install sourcetree `
 
 #### 安装idea旗舰版
 
