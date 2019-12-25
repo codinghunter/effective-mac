@@ -3,7 +3,7 @@
 A scirpt to setup effective Mac OS X development environment for java programmer.
 
 ## 必要安装
-注：建议先手动安装jdk，brew安装下载可能会很慢
+**注：建议先手动安装jdk，brew下载安装jdk可能会很慢**
 
 terminal执行以下命令，安装 zsh, oh-my-zsh, Homebrew, jdk8, Maven, iterm2, sublime, etc.
 
@@ -46,7 +46,7 @@ terminal执行以下命令，安装 zsh, oh-my-zsh, Homebrew, jdk8, Maven, iterm
 
 ` brew cask install intellij-idea-ce `
 
-#### 安装虚拟机(vagrant能够通过配置快速创建和维护虚拟机)
+#### 安装虚拟机（vagrant能够通过配置快速创建和维护虚拟机）
 
 ` brew cask install virtualbox vagrant `
 
