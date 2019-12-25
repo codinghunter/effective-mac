@@ -16,6 +16,9 @@ zsh, oh-my-zsh, Homebrew, Java8, Maven, iterm2, sublime，sourcetree, etc.
 
 ` brew install mysql@5.7`
 
+#### VPN客户端tunnelblick
+` brew cask install tunnelblick `
+
 #### 安装vscode
 
 ` brew cask install visual-studio-code `
