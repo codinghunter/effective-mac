@@ -38,7 +38,7 @@ terminal执行以下命令，安装 zsh, oh-my-zsh, Homebrew, Java8, Maven, iter
 
 ` brew cask install intellij-idea-ce `
 
-#### 安装虚拟机
+#### 安装虚拟机(vagrant能够通过配置快速创建和维护虚拟机)
 
 ` brew cask install virtualbox vagrant `
 
