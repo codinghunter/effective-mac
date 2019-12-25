@@ -4,7 +4,7 @@ A scirpt to setup effective Mac OS X development environment for java programmer
 
 ## 必要安装
 
-terminal执行以下命令，安装 zsh, oh-my-zsh, Homebrew, Java8, Maven, iterm2, sublime etc.
+terminal执行以下命令，安装 zsh, oh-my-zsh, Homebrew, Java8, Maven, iterm2, sublime, etc.
 
 1. ` chsh -s /bin/zsh `
 2. ` sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" `
@@ -18,11 +18,15 @@ terminal执行以下命令，安装 zsh, oh-my-zsh, Homebrew, Java8, Maven, iter
 
 ## 可选安装
 
+注：可以把需要安装的都接在后面一次安装，不需要一条条执行
+
+示例： ` brew install xxx xxx ` 或者 ` brew cask install xxx xxx xxx`
+
 #### 安装mysql5.7
 
 ` brew install mysql@5.7`
 
-#### VPN客户端tunnelblick
+#### vpn客户端tunnelblick
 ` brew cask install tunnelblick `
 
 #### 安装vscode
