@@ -15,6 +15,7 @@ echo "\nexport LC_ALL=en_US.UTF-8" >> $HOME/.oh-my-zsh/custom/env.zsh
 
 if ! $(/usr/bin/which -s java); then
     echo "Install Java 8"
+    brew tap AdoptOpenJDK/openjdk
     brew cask install adoptopenjdk8
     echo "\nexport JAVA_HOME=/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home" >> $HOME/.oh-my-zsh/custom/env.zsh
 fi
